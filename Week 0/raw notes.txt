@@ -1,0 +1,23 @@
+CS50P new learnings + notes
+
+week 0: 
+
+-print (parameters such as end, sep) - named parameters (optional) 
+-usage of documentation (methods) 
+-escaping of characters using \ 
+-f strings or format string (usage of {}) (print(f"{z:,}") 
+- different kind of python string functions
+(strip,title,capitalize, split) 
+-by default, input is string
+-[] in documentation, usually states something state optional
+-function parameters can have default value 
+
+
+-coding style doesnt matter as long as you're consistent and justification with it unless team/company requires a specific one. 
+
+at the end of the day, as long as its readable for you and for others, it is good. 
+
+-there are multiple ways to solve a problem
+
+
+

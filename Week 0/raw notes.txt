@@ -1,0 +1,78 @@
+CS50P new learnings + notes
+
+week 0: 
+
+-print (parameters such as end, sep) - named parameters (optional) 
+-usage of documentation (methods) 
+-escaping of characters using \ 
+-f strings or format string (usage of {}) (print(f"{z:,}") 
+- different kind of python string functions
+(strip,title,capitalize, split) 
+-by default, input is string
+-[] in documentation, usually states something state optional
+-function parameters can have default value 
+
+
+-coding style doesnt matter as long as you're consistent and justification with it unless team/company requires a specific one. 
+
+at the end of the day, as long as its readable for you and for others, it is good. 
+
+-there are multiple ways to solve a problem
+
+week 1: 
+
+-shortened condition (chaining comparison operators) ex. if 90 <= score <= 100
+-pythonic expression ( similar to javascript's ternary) 
+-python's match statement (similar to switch case statement)
+
+week 2: 
+
+-pythonic expression in loops. can use _ in for loops 
+- differences between for loop in py and other languages 
+- for loop in py is similar to foreach of javascript
+= python dict is similar to js object
+- list of dictionaries (datasets) csv etc. 
+
+problem sets:
+includes 
+enumerate
+dictonaries
+
+week 3:
+
+-pass 
+-name error, value error
+
+problem sets:
+-sort,reverse dict
+-eoferror to exit the program
+-more application of different dict methods
+-handling multiple exception 
+-use of index for list
+-raising error
+-zfill
+
+week4:
+different libraries available in py
+
+cmd line arguments 
+sys.argv (argument vector) 0- filename -...
+sys.exit
+pypi.org
+pip (cowsay)
+apis 
+pip intall request 
+json - format for exchanging data between lang.
+
+psets:
+sys.exit(1)
+sys argsv 
+
+
+ 
+
+
+
+
+
+

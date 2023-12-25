@@ -68,6 +68,29 @@ psets:
 sys.exit(1)
 sys argsv 
 
+week5:
+create a unit test for a specific function
+-assert
+
+use __name__ == "__main__" main() to avoid running of main in other py files 
+
+-AssertionError
+
+-using of pytest (https://docs.pytest.org/en/7.4.x/)
+
+-check to see if it will raise an error
+import pytest
+
+with pytest.raises(ErrorName):
+	...
+
+ 
+
+to test a folder, create a py file = __init__py
+treat the folder like a package 
+
+
+
 
  
 

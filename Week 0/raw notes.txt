@@ -89,6 +89,35 @@ with pytest.raises(ErrorName):
 to test a folder, create a py file = __init__py
 treat the folder like a package 
 
+week 6 
+
+- with open (filename, mode) as file:
+	...
+// r = read is default
+
+- sort(file)
+- csv
+
+-to display sorted dict in list 
+
+def get_house(student):
+	return student["house"]
+
+for student in sorted(students, key= // a function that return the key to be sorted //, 
+reverse = true // if want to reverse)
+
+alternatively - lambda function or anonymous function
+key = lambda (student): student["house"]
+
+//similar to arrow function but more limited 
+
+- csv function
+- Reader / DictReader 
+
+
+
+
+
 
 
 
